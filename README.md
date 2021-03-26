@@ -1,5 +1,5 @@
-# Solusi Praktikum EL2208 PPMC 2020/2021
-Daftar link repository solusi praktikum EL2208 PPMC 2020/2021
+# Solusi Praktikum EL2208 PPMC ITB 2020/2021
+Daftar link repository solusi praktikum EL2208 Praktikum Pemecahan Masalah dengan C, Institut Teknologi Bandung, 2020/2021
 
 | No Modul | Judul | Senin S1 | Senin S2 | Rabu S1 | Rabu S2 | Jumat S1 | Jumat S2 |
 |----------|-------|----------|----------|---------|---------|----------|----------|
